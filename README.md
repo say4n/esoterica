@@ -10,7 +10,7 @@ the wackiest, pessimal of algorithms that you won't ever need
 
 ### bogosort
 
-To sort a list, just shuffle it till entropy finds its way to order. Its name is a portmanteau of the words bogus and sort.
+To sort a list, just shuffle it till entropy finds its way to order. Wikipedia says, "Its name is a portmanteau of the words bogus and sort".
 
 [ [View Source](https://github.com/say4n/esoterica/blob/master/bogosort.py) ]
 [ [Description](https://en.wikipedia.org/wiki/Bogosort) ]
