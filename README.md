@@ -2,7 +2,9 @@
     <img src="assets/esoterica.svg" style="background-color:rgba(0,0,0,0);" height="200" alt="esoterica"></a>
     <br>esoterica<br>
 </h2>
-<center>the wackiest, pessimal of algorithms that you won't ever need</center>
+<p align="center">
+the wackiest, pessimal of algorithms that you won't ever need
+</p>
 
 ## algorithms
 
